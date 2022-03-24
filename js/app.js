@@ -1,7 +1,7 @@
 
 
 if (navigator.serviceWorker) {
-    navigator.serviceWorker.register('twittor/sw.js')
+    navigator.serviceWorker.register('/sw.js')
 }
 
 // Referencias de jQuery
